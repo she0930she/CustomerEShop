@@ -1,0 +1,14 @@
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/bin/Debug/net6.0/ApplicationCore.deps.json
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/bin/Debug/net6.0/ApplicationCore.runtimeconfig.json
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/bin/Debug/net6.0/ApplicationCore.dll
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/bin/Debug/net6.0/ApplicationCore.pdb
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/obj/Debug/net6.0/ApplicationCore.csproj.AssemblyReference.cache
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/obj/Debug/net6.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/obj/Debug/net6.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/obj/Debug/net6.0/ApplicationCore.AssemblyInfo.cs
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/obj/Debug/net6.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/obj/Debug/net6.0/ApplicationCore.dll
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/obj/Debug/net6.0/refint/ApplicationCore.dll
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/obj/Debug/net6.0/ApplicationCore.pdb
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/obj/Debug/net6.0/ApplicationCore.genruntimeconfig.cache
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/obj/Debug/net6.0/ref/ApplicationCore.dll

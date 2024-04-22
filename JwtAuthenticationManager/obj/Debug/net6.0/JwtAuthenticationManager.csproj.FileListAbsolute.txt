@@ -1,0 +1,17 @@
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/bin/Debug/net6.0/JwtAuthenticationManager.deps.json
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/bin/Debug/net6.0/JwtAuthenticationManager.runtimeconfig.json
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/bin/Debug/net6.0/JwtAuthenticationManager.dll
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/bin/Debug/net6.0/JwtAuthenticationManager.pdb
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/bin/Debug/net6.0/ApplicationCore.dll
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/bin/Debug/net6.0/ApplicationCore.pdb
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/obj/Debug/net6.0/JwtAuthenticationManager.csproj.AssemblyReference.cache
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/obj/Debug/net6.0/JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/obj/Debug/net6.0/JwtAuthenticationManager.AssemblyInfoInputs.cache
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/obj/Debug/net6.0/JwtAuthenticationManager.AssemblyInfo.cs
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/obj/Debug/net6.0/JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/obj/Debug/net6.0/JwtAuthe.27E6DA6D.Up2Date
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/obj/Debug/net6.0/JwtAuthenticationManager.dll
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/obj/Debug/net6.0/refint/JwtAuthenticationManager.dll
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/obj/Debug/net6.0/JwtAuthenticationManager.pdb
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/obj/Debug/net6.0/JwtAuthenticationManager.genruntimeconfig.cache
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/obj/Debug/net6.0/ref/JwtAuthenticationManager.dll

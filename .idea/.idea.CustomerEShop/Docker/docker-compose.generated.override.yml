@@ -1,0 +1,21 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  customerapi:
+    build:
+      context: "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop"
+      dockerfile: "CustomerService/CustomerAPI/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net6.0/CustomerAPI.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "customerapi:dev"
+    ports: []
+    volumes:
+    - "/Users/amandatao/.nuget/packages:/root/.nuget/packages"
+    - "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/CustomerAPI:/app:rw"
+    - "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop:/src:rw"
+    working_dir: "/app"

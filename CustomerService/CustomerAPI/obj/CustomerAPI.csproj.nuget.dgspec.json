@@ -1,0 +1,338 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/CustomerAPI/CustomerAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/ApplicationCore.csproj",
+        "projectName": "ApplicationCore",
+        "projectPath": "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/ApplicationCore.csproj",
+        "packagesPath": "/Users/amandatao/.nuget/packages/",
+        "outputPath": "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/amandatao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/CustomerAPI/CustomerAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/CustomerAPI/CustomerAPI.csproj",
+        "projectName": "CustomerAPI",
+        "projectPath": "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/CustomerAPI/CustomerAPI.csproj",
+        "packagesPath": "/Users/amandatao/.nuget/packages/",
+        "outputPath": "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/CustomerAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/amandatao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/Infrastructure.csproj"
+              },
+              "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/JwtAuthenticationManager.csproj": {
+                "projectPath": "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/JwtAuthenticationManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/amandatao/.nuget/packages/",
+        "outputPath": "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/amandatao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/ApplicationCore.csproj": {
+                "projectPath": "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/ApplicationCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/JwtAuthenticationManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/JwtAuthenticationManager.csproj",
+        "projectName": "JwtAuthenticationManager",
+        "projectPath": "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/JwtAuthenticationManager.csproj",
+        "packagesPath": "/Users/amandatao/.nuget/packages/",
+        "outputPath": "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/JwtAuthenticationManager/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/amandatao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/ApplicationCore.csproj": {
+                "projectPath": "/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/ApplicationCore/ApplicationCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

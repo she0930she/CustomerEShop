@@ -1,0 +1,17 @@
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/bin/Debug/net6.0/Infrastructure.deps.json
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/bin/Debug/net6.0/Infrastructure.runtimeconfig.json
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/bin/Debug/net6.0/Infrastructure.dll
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/bin/Debug/net6.0/Infrastructure.pdb
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/bin/Debug/net6.0/ApplicationCore.dll
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/bin/Debug/net6.0/ApplicationCore.pdb
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/obj/Debug/net6.0/Infrastr.15EFFBFE.Up2Date
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/obj/Debug/net6.0/Infrastructure.dll
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/obj/Debug/net6.0/refint/Infrastructure.dll
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/obj/Debug/net6.0/Infrastructure.pdb
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/obj/Debug/net6.0/Infrastructure.genruntimeconfig.cache
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/Infrastructure/obj/Debug/net6.0/ref/Infrastructure.dll

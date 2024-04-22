@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CustomerService", "CustomerService", "{E1CB0953-DD9D-4E23-B4DD-243FD1EEA44D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationCore", "CustomerService\ApplicationCore\ApplicationCore.csproj", "{6F62B1AD-8021-4E19-B2A0-A318E9E769F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "CustomerService\Infrastructure\Infrastructure.csproj", "{07851BF0-D3D2-4583-B366-F2116713CE7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerAPI", "CustomerService\CustomerAPI\CustomerAPI.csproj", "{2250B0AC-C599-4B2E-B9B5-5E0CBCF6563E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthenticationManager", "JwtAuthenticationManager\JwtAuthenticationManager.csproj", "{60A6C474-861B-4E89-8F42-E1039535CBF9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{38A8DF34-ACAC-49FC-8301-2A85535113B7}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F62B1AD-8021-4E19-B2A0-A318E9E769F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F62B1AD-8021-4E19-B2A0-A318E9E769F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F62B1AD-8021-4E19-B2A0-A318E9E769F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F62B1AD-8021-4E19-B2A0-A318E9E769F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07851BF0-D3D2-4583-B366-F2116713CE7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07851BF0-D3D2-4583-B366-F2116713CE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07851BF0-D3D2-4583-B366-F2116713CE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07851BF0-D3D2-4583-B366-F2116713CE7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2250B0AC-C599-4B2E-B9B5-5E0CBCF6563E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2250B0AC-C599-4B2E-B9B5-5E0CBCF6563E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2250B0AC-C599-4B2E-B9B5-5E0CBCF6563E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2250B0AC-C599-4B2E-B9B5-5E0CBCF6563E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A6C474-861B-4E89-8F42-E1039535CBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A6C474-861B-4E89-8F42-E1039535CBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A6C474-861B-4E89-8F42-E1039535CBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A6C474-861B-4E89-8F42-E1039535CBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6F62B1AD-8021-4E19-B2A0-A318E9E769F0} = {E1CB0953-DD9D-4E23-B4DD-243FD1EEA44D}
+		{07851BF0-D3D2-4583-B366-F2116713CE7F} = {E1CB0953-DD9D-4E23-B4DD-243FD1EEA44D}
+		{2250B0AC-C599-4B2E-B9B5-5E0CBCF6563E} = {E1CB0953-DD9D-4E23-B4DD-243FD1EEA44D}
+	EndGlobalSection
+EndGlobal
