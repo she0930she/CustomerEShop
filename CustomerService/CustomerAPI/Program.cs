@@ -26,7 +26,8 @@ builder.Services.AddCors(options =>
         policy  =>
         {
             policy.WithOrigins(
-                    "http://localhost:4200", "http://example.com")
+                    "http://localhost:4200", "http://example.com",
+                    "https://ashy-river-0f68ccb1e.5.azurestaticapps.net")
                 .AllowAnyHeader()
                 .AllowAnyMethod();
                 

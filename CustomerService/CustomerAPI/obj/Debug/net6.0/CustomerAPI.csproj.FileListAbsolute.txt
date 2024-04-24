@@ -70,3 +70,4 @@
 /Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/CustomerAPI/obj/Debug/net6.0/CustomerAPI.pdb
 /Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/CustomerAPI/obj/Debug/net6.0/CustomerAPI.genruntimeconfig.cache
 /Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/CustomerAPI/obj/Debug/net6.0/ref/CustomerAPI.dll
+/Users/amandatao/RiderProjects/WebProgramming/CustomerEShop/CustomerService/CustomerAPI/obj/Debug/net6.0/CustomerAPI.sourcelink.json
